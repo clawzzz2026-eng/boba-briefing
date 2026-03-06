@@ -129,7 +129,7 @@ def generate_audio(script, output_path):
         }
         payload = {
             "text": script[:4500],  # Stay within free tier limits
-            "model_id": "eleven_monolingual_v1",
+            "model_id": "eleven_turbo_v2_5",
             "voice_settings": {"stability": 0.5, "similarity_boost": 0.75},
         }
         resp = requests.post(url, headers=headers, json=payload, timeout=60)
