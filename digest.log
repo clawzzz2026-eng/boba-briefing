@@ -106,3 +106,21 @@
 
 ✅ Boba Briefing complete!
 
+
+🧋 Boba Briefing starting for 2026-03-12...
+
+[1/4] Fetching RSS feeds...
+      Found 10 relevant stories
+[2/4] Generating digest...
+[3/4] Generating podcast audio...
+[warn] ElevenLabs error 401: {"detail":{"status":"quota_exceeded","message":"This request exceeds your quota of 10000. You have 1551 credits remaining, while 1934 credits are required for this request."}}
+[4/4] Sending email...
+[ok] Email sent to clawzzz2026@gmail.com
+[5/5] Pushing to GitHub...
+[ok] Note saved: /home/zhuber/.openclaw/workspace/boba-briefing/notes/2026-03-12.md
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing add .
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing commit -m 📰 Boba Briefing 2026-03-12
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing push
+
+✅ Boba Briefing complete!
+
