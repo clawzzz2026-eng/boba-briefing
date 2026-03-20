@@ -232,3 +232,21 @@
 
 ✅ Boba Briefing complete!
 
+
+🧋 Boba Briefing starting for 2026-03-19...
+
+[1/4] Fetching RSS feeds...
+      Found 10 relevant stories
+[2/4] Generating digest...
+[3/4] Generating podcast audio...
+[warn] ElevenLabs error 402: {"detail":{"type":"payment_required","code":"paid_plan_required","message":"Free users cannot use library voices via the API. Please upgrade your subscription to use this voice.","status":"payment_req
+[4/4] Sending email...
+[ok] Email sent to clawzzz2026@gmail.com
+[5/5] Pushing to GitHub...
+[ok] Note saved: /home/zhuber/.openclaw/workspace/boba-briefing/notes/2026-03-19.md
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing add .
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing commit -m 📰 Boba Briefing 2026-03-19
+[ok] git -C /home/zhuber/.openclaw/workspace/boba-briefing push
+
+✅ Boba Briefing complete!
+
